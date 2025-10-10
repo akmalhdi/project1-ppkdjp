@@ -264,7 +264,7 @@ footer li:hover {
 
 /* start style services */
 
-/* start style hero service */
+/* start style hero service page */
 .hero-service {
   background-size: cover;
   background-position: center;
@@ -478,5 +478,23 @@ footer li:hover {
   margin-left: 10px;
 }
 /* end style booking section */
+/* end style services page*/
 
-/* end style services */
+
+
+/* start style contact page */
+.hero-contact {
+  background-size: cover;
+  background-position: center;
+  background-image: url(../img/23.png);
+  padding: 7rem;
+  margin-bottom: 2rem;
+  margin-top: -2rem;
+}
+.hero-contact .hero-title {
+  color: white;
+  font-weight: bold;
+  font-size: 4rem;
+  text-shadow: 2px 2px 2px gray;
+}
+/* end style contact page */
