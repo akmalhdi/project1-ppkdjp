@@ -483,6 +483,8 @@ footer li:hover {
 
 
 /* start style contact page */
+
+/* start style hero contact */
 .hero-contact {
   background-size: cover;
   background-position: center;
@@ -497,4 +499,35 @@ footer li:hover {
   font-size: 4rem;
   text-shadow: 2px 2px 2px gray;
 }
+/* end style contact hero */
+
+/* start style contact section */
+.form-contact {
+  background-color: #282828;
+  border-radius: 15px;
+  padding: 1.5rem 3rem;
+  width: 25rem;
+  height: 100%;
+  align-items: center;
+}
+.contact-title .small{
+  font-size: 20px;
+  line-height: 5px;
+  letter-spacing: 2px;
+}
+.contact-title .big {
+  font-size: 40px;
+  letter-spacing: 3px;
+}
+.contact-icon {
+  font-size: 3rem;
+  text-align: center;
+}
+.contact-person h5 {
+  text-align: center;
+  font-weight: bold;
+}
+
+/* end style contact section */
+
 /* end style contact page */
